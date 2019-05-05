@@ -35,6 +35,12 @@
 			background:#49beb7;
 			color:#fff;
 		}
+		.btn i {
+			position: absolute;
+			top:16px;
+			left:85px;
+			font-size:20px;
+		}
 		.btn::before{
 			content:"";
 			position:absolute;
